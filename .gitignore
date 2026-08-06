@@ -1,0 +1,12 @@
+# Raw Dataset
+data/raw/
+
+# Power BI
+*.pbix
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# Environment
+.venv/
