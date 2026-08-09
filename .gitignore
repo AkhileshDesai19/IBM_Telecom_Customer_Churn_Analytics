@@ -1,5 +1,6 @@
-# Raw Dataset
+# Datasets
 data/raw/
+data/synthetic/
 
 # Power BI
 *.pbix
@@ -9,7 +10,10 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Environment
-.venv/
+.env
 
-# Synthetic datasets
-data/synthetic/
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
